@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+Approach Summary:
+
+Ensured pixel-perfect accuracy as per the Figma design using Next.js and Tailwind CSS.
+
+Implemented smooth and relevant animations to enhance user experience.
+
+Optimized for full responsiveness across desktop, tablet, and mobile devices.
+
+
